@@ -1,1 +1,2 @@
-DaylyQuest-Web, PushPHP
+'DaylyQuest-Web'
+'PushPHP'
