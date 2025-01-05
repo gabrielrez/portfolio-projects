@@ -1,6 +1,6 @@
 # Portfolio Projects
 
-Lista de repositórios para destacar no portfólio:
+Lista de repositórios para portfólio:
 
 - DaylyQuest-Web
 - PushPHP
